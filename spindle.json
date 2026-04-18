@@ -1,10 +1,12 @@
-"version": "1.0.0",
-"name": "Lumiverse Mathcros",
-"identifier": "lumiverse_mathcros",
-"author": "Critter",
-"github": "",
-"homepage": "",
-"description": "Mathematical Macros",
-"permissions": "",
-"entry_backend": "",
-"entry_frontend": "",
+{
+  "version": "1.0.0",
+  "name": "Lumiverse Mathcros",
+  "identifier": "lumiverse_mathcros",
+  "author": "Critter",
+  "github": "",
+  "homepage": "",
+  "description": "Mathematical Macros",
+  "permissions": "",
+  "entry_backend": "",
+  "entry_frontend": ""
+}
