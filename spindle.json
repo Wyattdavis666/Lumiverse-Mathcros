@@ -6,7 +6,7 @@
   "github": "https://github.com/Wyattdavis666/Lumiverse-Mathcros.git",
   "homepage": "https://github.com/Wyattdavis666/Lumiverse-Mathcros.git",
   "description": "Mathematical Macros",
-  "permissions": "",
+  "permissions": "interceptor",
   "entry_backend": "dist/backend.js",
   "entry_frontend": "dist/frontend.js"
 }
